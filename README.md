@@ -15,7 +15,7 @@ This project applies **multiple linear regression** to predict apartment prices 
 ## 📊 Key Results
 
 - **Simple Linear Regression (size only)**  
-  - R²: `0.7447`
+  - R²: `0.7447` (done in another exercise)
 
 - **Multiple Linear Regression (size + year)**  
   - R²: `0.7765`  
@@ -82,7 +82,7 @@ Este projeto aplica **regressão linear múltipla** para prever preços de apart
 ## 📊 Resultados Principais
 
 - **Regressão Linear Simples (apenas tamanho)**  
-  - R²: `0.7447`
+  - R²: `0.7447` (feito em outro exercício, foi apenas colocado aqui para fins de comparação)
 
 - **Regressão Linear Múltipla (tamanho + ano)**  
   - R²: `0.7765`  
