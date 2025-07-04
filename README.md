@@ -1,6 +1,6 @@
 # 🏠 Apartment Price Prediction with Feature Scaling
 
-This project applies **multiple linear regression** to predict apartment prices using two features: `size` (in square meters) and `year` (year of construction). The exercise emphasizes the importance of **feature scaling** and introduces model evaluation through **R² and Adjusted R²**.
+This project applies **multiple linear regression** to predict apartment prices using two features: `size` and `year` (year of construction). The exercise emphasizes the importance of **feature scaling** and introduces model evaluation through **R² and Adjusted R²**.
 
 ---
 
@@ -67,7 +67,7 @@ This project applies **multiple linear regression** to predict apartment prices 
 
 # 🏠 Previsão de Preços de Apartamentos com Normalização de Variáveis
 
-Este projeto aplica **regressão linear múltipla** para prever preços de apartamentos utilizando duas variáveis: `tamanho` (em metros quadrados) e `ano` (ano de construção). O exercício enfatiza a importância da **normalização de variáveis (feature scaling)** e introduz a avaliação de modelos por meio de **R² e R² ajustado**.
+Este projeto aplica **regressão linear múltipla** para prever preços de apartamentos utilizando duas variáveis: `tamanho` e `ano` (ano de construção). O exercício enfatiza a importância da **normalização de variáveis (feature scaling)** e introduz a avaliação de modelos por meio de **R² e R² ajustado**.
 
 ---
 
